@@ -1,4 +1,9 @@
 <div class="news-card">
+  <div class="news-date">Aug 2026</div>
+  <div class="news-body"><strong>Paper accepted</strong> &mdash; Our work <em>DisGAR: Machine Generated Text Detection via Disentangled Generative Artifact Representation</em> has been accepted to the <em>Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>.</div>
+</div>
+
+<div class="news-card">
   <div class="news-date">Apr 2026</div>
   <div class="news-body"><strong>Paper accepted</strong> &mdash; Our work <em>SwapBackHash: State-Compressed Consistent Hashing Framework for Arbitrary Bucket Removals</em> has been accepted to the <em>2026 International Conference on Intelligent Computing</em>.</div>
 </div>
