@@ -1,6 +1,6 @@
 <div class="pub-card">
   <div class="pub-title">DisGAR: Machine Generated Text Detection via Disentangled Generative Artifact Representation</div>
-  <div class="pub-authors">Shuhua Ma, <strong>Bohao Li</strong>, Yanru He, Lingcui Zhang, Ben Niu, Fenghua Li</div>
+  <div class="pub-authors">Shuhua Ma, <strong>Bohao Li</strong>, Yanru He, Lingcui Zhang<sup>*</sup>, Ben Niu, Fenghua Li</div>
   <div class="pub-venue"><em>Conference on Empirical Methods in Natural Language Processing (EMNLP)</em>, 2026 <span class="pub-rank ccf-b">(CCF-B)</span></div>
 </div>
 
