@@ -1,4 +1,10 @@
 <div class="pub-card">
+  <div class="pub-title">DisGAR: Machine Generated Text Detection via Disentangled Generative Artifact Representation</div>
+  <div class="pub-authors">Shuhua Ma, <strong>Bohao Li</strong>, Yanru He, Lingcui Zhang, Ben Niu, Fenghua Li</div>
+  <div class="pub-venue"><em>Findings of the Association for Computational Linguistics: EMNLP 2026</em>, 2026 <span class="pub-rank ccf-b">(CCF-B)</span></div>
+</div>
+
+<div class="pub-card">
   <div class="pub-title">SwapBackHash: State-Compressed Consistent Hashing Framework for Arbitrary Bucket Removals</div>
   <div class="pub-authors">Shoukun Guo, <strong>Bohao Li</strong>, Fenghua Li, Lingcui Zhang, Ben Niu, Yuqiao Hou<sup>*</sup></div>
   <div class="pub-venue"><em>2026 International Conference on Intelligent Computing (ICIC)</em>, pp. xx-xx, 2026</div>
