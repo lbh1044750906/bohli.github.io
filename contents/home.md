@@ -4,7 +4,7 @@ I received my B.E. in Information Security from **China University of Geoscience
 
 ### Research Interests
 
-Privacy compliance checking, mobile privacy and security, privacy computing, and AI security.
+Privacy compliance checking, Mobile privacy and security, and AI & LLM security.
 
 ### Education
 
