@@ -20,6 +20,6 @@ Privacy compliance checking, mobile privacy and security, privacy computing, and
 
 ### Hobbies & Interests
 
-Snooker · Chinese eight-ball · Singing · Traveling · Color theory in art design.
+<i class="hobby-ico ico-snooker bi bi-record-fill" aria-hidden="true"></i> Snooker · <i class="hobby-ico ico-eightball bi bi-8-circle-fill" aria-hidden="true"></i> Chinese eight-ball · <i class="hobby-ico ico-sing bi bi-music-note-beamed" aria-hidden="true"></i> Singing · <i class="hobby-ico ico-travel bi bi-airplane-engines" aria-hidden="true"></i> Traveling · <i class="hobby-ico ico-art bi bi-palette-fill" aria-hidden="true"></i> Color theory in art design.
 
 I'm always happy to chat about research or life adventures. Feel free to reach out!

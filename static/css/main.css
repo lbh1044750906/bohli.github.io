@@ -417,36 +417,51 @@ body {
     font-weight: 500;
 }
 
-/* CCF / venue tier tags (e.g. (CCF-A)) */
+/* ---------- Tag pills (CCF rank / honor / venue) ----------
+   CCF-A deep red · CCF-B deep blue · CCF-C green
+   honor gold · venue neutral gray                            */
 .pub-rank {
     display: inline-block;
     margin-left: 6px;
-    padding: 1px 6px;
+    padding: 1px 7px;
     border-radius: 3px;
     font-family: var(--mono);
-    font-size: 0.7rem;
+    font-size: 0.68rem;
     font-weight: 700;
     letter-spacing: 0.05em;
-    line-height: 1.5;
+    line-height: 1.6;
     vertical-align: 2px;
+    white-space: nowrap;
 }
 
 .pub-rank.ccf-a {
-    color: #b91c1c;
-    background: rgba(185, 28, 28, 0.08);
-    border: 1px solid rgba(185, 28, 28, 0.28);
+    color: #a93226;
+    background: rgba(169, 50, 38, 0.07);
+    border: 1px solid rgba(169, 50, 38, 0.32);
 }
 
 .pub-rank.ccf-b {
-    color: #b45309;
-    background: rgba(180, 83, 9, 0.08);
-    border: 1px solid rgba(180, 83, 9, 0.28);
+    color: #2c5f97;
+    background: rgba(44, 95, 151, 0.07);
+    border: 1px solid rgba(44, 95, 151, 0.32);
 }
 
 .pub-rank.ccf-c {
-    color: #1e40af;
-    background: rgba(30, 64, 175, 0.08);
-    border: 1px solid rgba(30, 64, 175, 0.28);
+    color: #327a63;
+    background: rgba(50, 122, 99, 0.08);
+    border: 1px solid rgba(50, 122, 99, 0.32);
+}
+
+.pub-rank.honor {
+    color: #a87b1f;
+    background: rgba(217, 168, 63, 0.1);
+    border: 1px solid rgba(217, 168, 63, 0.38);
+}
+
+.pub-rank.venue {
+    color: #777777;
+    background: #f7f7f5;
+    border: 1px solid #e3e3e0;
 }
 
 .pub-note {
@@ -499,6 +514,33 @@ body {
 .pub-en-venue strong {
     color: var(--accent);
     font-weight: 500;
+}
+
+/* ---------- Hobby icons (colorful, in About) ---------- */
+.hobby-ico {
+    margin-right: 4px;
+    font-size: 0.95em;
+    vertical-align: -1.5px;
+}
+
+.ico-snooker {
+    color: #2e8b57; /* snooker-table green */
+}
+
+.ico-eightball {
+    color: #3a3a3a; /* the black 8-ball */
+}
+
+.ico-sing {
+    color: #8b5cf6; /* violet */
+}
+
+.ico-travel {
+    color: #2f8fd0; /* sky blue */
+}
+
+.ico-art {
+    color: #e2725b; /* coral */
 }
 
 /* ---------- News Cards ---------- */
