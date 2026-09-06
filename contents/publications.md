@@ -7,7 +7,7 @@
 <div class="pub-card">
   <div class="pub-title">SwapBackHash: State-Compressed Consistent Hashing Framework for Arbitrary Bucket Removals</div>
   <div class="pub-authors">Shoukun Guo, <strong>Bohao Li</strong>, Fenghua Li, Lingcui Zhang, Ben Niu, Yuqiao Hou<sup>*</sup></div>
-  <div class="pub-venue"><em>2026 International Conference on Intelligent Computing (ICIC)</em>, pp. xx-xx, 2026 <span class="pub-rank ccf-c">CCF-C</span></div>
+  <div class="pub-venue"><em>2026 International Conference on Intelligent Computing (ICIC)</em>, pp. 171-184, 2026 <span class="pub-rank ccf-c">CCF-C</span></div>
 </div>
 <div class="pub-card">
   <div class="pub-title">An Efficient and Secure Information Management Approach for Remote PPG Biometric Authentication Systems</div>
